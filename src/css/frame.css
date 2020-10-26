@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    box-sizing: border-box;
+  margin-left: 10%;
+  padding: 20px 40px;
+}
+#sub{
+    box-sizing: border-box;
+  top: 50px;
+  height: 100%;
+  width: 10%;
+  position: fixed;
+  overflow: auto;
+  background: #eee;
+  padding: 20px;
+}
+#header {
+  box-sizing: border-box;
+  background: #ccc;
+  height: 50px;
+}
